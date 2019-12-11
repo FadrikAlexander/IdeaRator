@@ -1,0 +1,77 @@
+Action
+Platformer
+Shooter
+Fighting
+Beat 'em up
+Stealth
+Survival
+Battle Royale
+Rhythm
+horror
+Metroidvania
+Adventure
+Text adventures
+Visual novels
+Interactive movie
+Role-playing
+Roguelike
+Tactical
+Simulation
+Construction
+Strategy
+4X game
+Auto battler (Auto chess)
+Multiplayer online battle arena (MOBA)
+Real-time strategy (RTS)
+Real-time tactics (RTT)
+Tower defense
+Turn-based strategy (TBS)
+Turn-based tactics (TBT)
+Sport
+Racing
+Competitive
+Boardgame
+card
+Casual
+Logic
+MMO
+Trivia
+Idle
+Christian
+Educational
+Esports
+Serious
+Puzzle
+Exploration
+Fantasy
+Animal Breeding
+Arcade
+Bullet Hell
+Children's Game
+Cooking
+Dance / Rhythm
+Dating Sim
+Deathmatch
+Dress-Up
+First-Person Shooter
+Third-Person Shooter
+Gambling
+Gameshow
+God Game
+Life Sim
+Light Gun
+Point-and-shoot
+Maze
+Military Combat
+Music
+Painting
+Pinball
+Point-and-click
+Procedurally-Generated
+Sandbox
+Shoot 'em Up
+Storycentric
+Typing
+Virtual Pet
+Virtual Reality
+Zero Plot
